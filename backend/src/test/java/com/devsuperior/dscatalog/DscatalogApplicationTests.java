@@ -7,6 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class DscatalogApplicationTests {
 
 	@Test
+	
 	void contextLoads() {
 	}
 
